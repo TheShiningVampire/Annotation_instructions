@@ -3,19 +3,19 @@
 ### Positive Classes
 The following classes are considered as positive classes:
 1. Screw Driver
-   A sample image of screw driver is shown below:
+   A sample image of screw driver is shown below:    
    ![Screw Driver](imgs/obj_1.png)
 
    Annotation id: 1
 
 2. Screw
-   A sample image of screw is shown below:
+   A sample image of screw is shown below:     
     ![Hammer](imgs/obj_2.png)
 
     Annotation id: 2
 
 3. Work-piece
-   A sample image of work-piece is shown below:
+   A sample image of work-piece is shown below:     
     ![Work-piece](imgs/obj_3.png)
 
     Annotation id: 3
@@ -27,29 +27,29 @@ Apart from the above classes, the following classes are also considered as posit
 However, annotate these classes only if they are clearly visible in the image. If the object is not clearly visible, then do not annotate it. Do separate the images which have images which have these classes in separate folders if possible.
 
 1. Tip of screw driver
-   As shown in the image below:
+   As shown in the image below:      
     ![Tip of screw driver](imgs/obj_4.png)
 
     Annotation id: 4
 
 2. Head of screw
-   As shown in the image below:
+   As shown in the image below:     
     ![Head of screw](imgs/obj_5.png)
 
     Annotation id: 5
 
 3. Screws inside the work-piece
-   As shown in the image below:
-    Original image
+   As shown in the image below:         
+    Original image           
     ![Original image](imgs/obj_7.png)
 
-    Segmented image
+    Segmented image           
     ![Screws inside the work-piece](./imgs/obj_6.png)
 
     Annotation id: 6
 
 ### Final Annonation
-One sample image of final annotation is shown below:
+One sample image of final annotation is shown below:          
 
 ![Final annotation](imgs/final_ann.png)
 
