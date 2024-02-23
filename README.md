@@ -55,3 +55,11 @@ One sample image of final annotation is shown below:
 
 ### Negative Classes
 Apart from the above classes all the other classes are considered as negative classes.
+
+
+## Additional Note
+
+In images like the below one, the screw in the stand should be annotated similar to the ones lying around on the table
+
+![image](https://github.com/TheShiningVampire/Annotation_instructions/assets/55876739/53e41f59-0bc6-4260-a414-94af8b43245a)
+
